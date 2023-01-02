@@ -1,0 +1,4 @@
+Requirements:
+1. 10x10 board with dice, snakes and ladders
+2. Multiple players
+3. Win: Any 1 player win

@@ -1,0 +1,3 @@
+Requirements:
+1. User chooses city->movies->theatres->seats->payment
+2. Concurrency management

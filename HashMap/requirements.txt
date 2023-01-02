@@ -1,0 +1,7 @@
+Requirements:
+1. defaultSize = 64
+2. capacity in powers of 2
+3. Max capacity = 2**32
+4. Collision Prevention
+5. Load Factor = 0.75
+6. Treefication threshold

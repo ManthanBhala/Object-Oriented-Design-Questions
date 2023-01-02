@@ -1,0 +1,4 @@
+Requirements:
+1. Piece objects with symbols ('o', 'x', '#', '$')
+2. Board (nxn)
+3. 2 Player
